@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+title: "配平约束论（注意力预算下的多模态聚合与配平）"
+message: "If you use this work, please cite it as below."
+authors:
+  - family-names: "邵"
+    given-names: "寿鹏"
+    alias: "魔法徽章 / mofahuizhang"
+version: 1.0.0
+date-released: 2026-10-20
+license: CC-BY-NC-4.0
+repository-code: "https://gitee.com/mofahuizhang/ABMK"
+keywords:
+  - 多模态
+  - 配平
+  - 采样原点
+  - 通道分化
+  - 线性基准
